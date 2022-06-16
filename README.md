@@ -4,7 +4,7 @@ This was a school project for one of my C programming courses.
 
 In this program, we implement an application for storing information of various users in lists.
 The lists are implemented using two way linked lists, and there is also an implementation of a few
-sorting algrorithms to sort the lists. Each user is identified with a user id, is added to the waiting
+sorting algorithms to sort the lists. Each user is identified with a user id, and is added to the waiting
 list when initially created. They can then be assigned to different 'channel' numbers when moved from 
 the waiting list to the assigned list. The other information stored in each user entry is not used 
 by the code, and is there for information only. There are different commands described below to
